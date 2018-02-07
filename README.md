@@ -25,7 +25,8 @@ Make sure that Tensorflow 1.0.0 is installed
 Python version 3.5 or above
 You are inside an Anaconda environment and using Spyder
 
-***DATASET***
+***DATASET:***
+
 Dataset has been downloaded from the Cornell Movie-Dialogs Corpus.
 The corpus contains a metadata-rich collection of fictional conversations extracted from raw movie scripts:
 
