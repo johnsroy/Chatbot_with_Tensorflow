@@ -2,7 +2,6 @@
 
 # Building a ChatBot with Deep NLP
 """
-Created on Sun Feb  4 22:05:10 2018
 
 @author: sourishr
 """
