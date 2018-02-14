@@ -109,7 +109,7 @@ for answer in clean_answers:
  
 # Creating two dictionaries that map the questions words and the answers words to a unique integer
 ## Including words above a specific threshold and deleting the ones below this threshold value
-## The threshold parameter is selected to be 20 which would help us remove 5% of the least appearing words
+## The threshold parameter is selected to be below 20 which would help us remove atleast 5% of the least appearing words
 threshold_questions = 15
 questionswords2int = {}
 word_number = 0
