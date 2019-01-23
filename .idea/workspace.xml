@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="35" />
+    <option name="width" value="1440" />
+    <option name="height" value="825" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="studioMain" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/akka-quickstart-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Index Exchange/hubble" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Index Exchange/hubble-master-fb9edccd7d3e5e79347aa0970b557536f1907386" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../Index Exchange/hubble-parser" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../IndexExchange/event-horizon" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/akka-quickstart-scala" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
